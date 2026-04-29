@@ -10,7 +10,8 @@ Reducir el churn de clientes e identificar las causas que lo genenran.
 ---
 ## Metodología
 ### Preprocesamiento
-- Fuente datos:raw_data_customers.csv
+- Fuente datos:raw_data_customers.csv, consta de 114 registros y 10 varibles. En términos generales se tienen variables que caracterizan a los clientes como por ejemplo fecha de inscripción, fecha de última compra, gasto mensual, total de envíos y la variable churn (con valores de 1: desertó y 0: no desertó).
+- 
 - Limpieza de valores nulos
 - Creación de variables derivadas (ej: gasto por envío)
 - Separación de variables X e y.
