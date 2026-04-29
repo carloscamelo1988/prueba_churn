@@ -17,8 +17,10 @@ Reducir el churn de clientes e identificar las causas que lo genenran.
 - Imputación de datos: La variable Churn evidenció un registro nulo, el cual fue reemplazado por el estadístico de moda.
 - Transfomación de datos: Las variables de fecha signup_date y last_purchase_date se les realizó un procesamiento para estandarizar fechas en el formato YYYY-MM-DD. Por último, las variables monthly_spend y total_shipments se transformó con valor absoluto con el fin de arrelgar los valores negativos.
 - Creación de variables derivadas: se crearon las variables de "tiempo_suscripcion_meses" y gasto_de_envio_por_mes. 
+
 -Análisis exploratorio de datos:
 
+hhhhhhhhhhhh
 ![Distribución de churn](output_29_0.png)
 
 
