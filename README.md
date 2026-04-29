@@ -25,6 +25,7 @@ EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 ![Importancia de variables](modelo1_1.png)
 
 - Random Forest
+  
 IIIIIIIIIIIIIIIIIIIIIIIII
 
 ![Random Forest](modelo2.png)
