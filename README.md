@@ -20,7 +20,7 @@ Reducir el churn de clientes e identificar las causas que lo genenran.
 
 -Análisis exploratorio de datos:
 
-hhhhhhhhhhhh
+  hhhhhhhhhhhh
 ![Distribución de churn](output_29_0.png)
 
 
