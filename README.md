@@ -23,7 +23,7 @@ Se utilizó validación cruzada estratificada debido al desbalance de clases.
 ---
 
 ## 📊 Resultados
-El mejor modelo fue Random Forest debido a su equilibrio entre recall y F1-score.
+- El mejor modelo fue Random Forest debido a su equilibrio entre recall y F1-score.
 
 ---
 
