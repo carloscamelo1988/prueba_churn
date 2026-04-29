@@ -1,7 +1,7 @@
-# 📊 Predicción de Churn de Clientes
+# Predicción de Churn de Clientes
 
-## 📌 Descripción
-Proyecto de machine learning para predecir churn de clientes usando variables de comportamiento como gasto mensual, número de envíos y antigüedad.
+## Descripción
+Proyecto de machine learning para predecir churn (deserción) de clientes a partir de ténicas de machine learning desarrollado en Python.
 
 ![Distribución de churn](output_29_0.png)
 ---
