@@ -20,7 +20,7 @@ Reducir el churn de clientes e identificar las causas que lo genenran.
 
 -Análisis exploratorio de datos:
 
-  hhhhhhhhhhhh
+Las variables numéricas 'monthly_spend', 'total_shipments', 'tiempo_suscripcion_meses','gasto_de_envio_por_mes' al ser graficadas mediante un histograma evidenciaron una posible distribución no normal, como tambíen una gran presencia de valores atípicos y extremos, como se muestra a continuación:
 ![Distribución de churn](output_29_0.png)
 
 
