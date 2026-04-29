@@ -9,7 +9,7 @@ Proyecto de machine learning para predecir churn de clientes usando variables de
 ## 🧹 Preprocesamiento
 - Limpieza de valores nulos
 - Creación de variables derivadas (ej: gasto por envío)
-- Separación de variables X e y
+- Separación de variables X e y.
 
 ---
 
