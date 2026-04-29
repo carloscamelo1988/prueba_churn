@@ -20,13 +20,19 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ![Modelo Gradient Boosting](modelo1.png)
 
-uuuuuuxxx
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
 ![Importancia de variables](modelo1_1.png)
 
-ddddd
-  
 - Random Forest
+IIIIIIIIIIIIIIIIIIIIIIIII
+
+![Random Forest](modelo2.png)
+
+OOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+![Importancia de variables](modelo2.png)
+
 - Regresión logística (balanced)
 
 
