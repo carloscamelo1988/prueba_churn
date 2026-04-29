@@ -15,7 +15,9 @@ Reducir el churn de clientes e identificar las causas que lo genenran.
 ![Caracterización de la fuente de datos](Estructura1.png)
   
 - Limpieza de valores nulos: Se realizó limpieza de valores adicionando 0 las variables monthly_spend y total_shipments. Además, aquellso registros que reportaban con valor de 99999 fue reemplazado por 0.
-- Transfomación de datos: 
+- Imputación de datos: La variable Churn evidenció un registro nulo, el cual fue reemplazado por el estadístico de moda
+- Transfomación de datos:
+-     sasa
 - Creación de variables derivadas (ej: gasto por envío)
 - Separación de variables X e y.
 
