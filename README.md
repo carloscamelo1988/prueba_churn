@@ -14,9 +14,13 @@ Proyecto de machine learning para predecir churn de clientes usando variables de
 ---
 
 ## 🤖 Modelos utilizados
-- Regresión logística (balanced)
-- Random Forest
 - Gradient Boosting
+  ![Modelo Gradient Boosting](modelo1.png)
+  ![Importancia de variables](modelo1_".png)
+  
+- Random Forest
+- Regresión logística (balanced)
+
 
 Se utilizó validación cruzada estratificada debido al desbalance de clases.
 
