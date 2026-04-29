@@ -15,6 +15,7 @@ Proyecto de machine learning para predecir churn de clientes usando variables de
 
 ## 🤖 Modelos utilizados
 - Gradient Boosting
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ![Modelo Gradient Boosting](modelo1.png)
 
