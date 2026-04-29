@@ -9,7 +9,8 @@ Reducir el churn de clientes e identificar las causas que lo genenran.
 ![Distribución de churn](output_29_0.png)
 ---
 ## Metodología
-### 🧹 Preprocesamiento
+### Preprocesamiento
+- Fuente datos:raw_data_customers.csv
 - Limpieza de valores nulos
 - Creación de variables derivadas (ej: gasto por envío)
 - Separación de variables X e y.
