@@ -41,11 +41,17 @@ Se toma la variable objetivo "Churn" vs las demás variables numéricas para det
 ![Gráfico Q-Q PLot](output_36_0.png)
 
 
-- Separación de variables X e y.
+- Separación de variables X e y: Se crea una muestra train y test con tamaño del 20%, con la opción de estratificada (tiene en cuenta desbalanceo) y semilla aleatoria 123. La relación de no churn es de 83 (75.45%), mientras que churn es de 27 (24.54%).
 
 ---
 
 ### 🤖 Modelos utilizados
+
+Antes de dar incio a la etapa de modelado se tomó la función de StandarScaler, $z = \frac{x - \mu}{\sigma}$
+
+
+
+
 - Gradient Boosting.
   
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
