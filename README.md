@@ -31,6 +31,11 @@ Las variables numéricas 'monthly_spend', 'total_shipments', 'tiempo_suscripcion
 
 ![Gráfico Q-Q PLot](output_30_3.png)
 
+Se realiza la prueba de correlación de Spearman entre las variables numéricas ya que no existe normalidad entre ellas. Los resultados arrojan correlación fuerte entre "total_shipments" y "monthly_spend", lo que indica una relación directamente proporcional. Es decir a medida que aumenta "total_shipments" también aumenta "monthly_spend". Los demás pares de variables presentan correlación débil.
+
+![Gráfico Q-Q PLot](output_34_0.png)
+
+
 - Separación de variables X e y.
 
 ---
