@@ -90,7 +90,7 @@ Importancia de variables:
 ###  Insights
 * El modelo Random Forest es la mejor alternativa ya que tiene una similitud entre f1-socre y recall de 0.85.
 * El modelo Gradient Boosting presenta una baja comparación con Random Forest, ya que f1 score y rcall es de 0.74, por lo tanto es el segundo mejor modelo.
-* El modeo de regresión logística no presenta un balance entre recall y f1 ya que sus valore son 0.96 y 0.84, por lo tanto sería una opción descartable.
+* El modeo de regresión logística no presenta un balance entre recall y f1 ya que sus valore son 0.96 y 0.84, por lo tanto sería una opción descartable. 
 
 ---
 
