@@ -67,8 +67,6 @@ EEEEEEEEE
 
 - Random Forest
   
-IIIIIIIIIIIIIIIIIIIIIIIII
-
 ![Random Forest](modelo2.png)
 
 
@@ -78,6 +76,7 @@ Importancia de variables:
 
 - Regresión logística (balanced)
 
+![Regresión Logística](output_52_1.png)
 
 Se utilizó validación cruzada estratificada debido al desbalance de clases.
 
