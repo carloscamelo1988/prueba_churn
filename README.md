@@ -53,11 +53,13 @@ A continuación, se proponen los siguientes modelos:
 
 - Gradient Boosting.
   
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ![Modelo Gradient Boosting](modelo1.png)
 
-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+![Importancia de variables](output_46_1.png)
+
+EEEEEEEEE
+
 
 ![Importancia de variables](modelo1_1.png)
 
