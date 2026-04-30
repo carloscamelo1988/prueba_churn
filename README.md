@@ -64,7 +64,7 @@ A continuación, se proponen los siguientes modelos:
 EEEEEEEEE
 
 
-![Importancia de variables](modelo1_1.png)
+<h2 align="center"> Importancia de variables</h2>
 
 - Random Forest
   
