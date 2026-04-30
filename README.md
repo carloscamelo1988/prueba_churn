@@ -41,11 +41,11 @@ Se toma la variable objetivo "Churn" vs las demás variables numéricas para det
 ![Gráfico Q-Q PLot](output_36_0.png)
 
 
-- Separación de variables X e y: Se crea una muestra train y test con tamaño del 20%, con la opción de estratificada (tiene en cuenta desbalanceo) y semilla aleatoria 123. La relación de no churn es de 83 (75.45%), mientras que churn es de 27 (24.54%).
+- Separación de variables X e y: Se crea una muestra train y test con tamaño del 20%, con la opción de estratificada (tiene en cuenta desbalanceo) y semilla aleatoria 123. La relación de no churn es de 83 (75.45%), mientras que churn es de 27 (24.54%) lo que genera un desbalanceo al momento de implementar un modelo de machine learning.
 
 ---
 
-### 🤖 Modelos utilizados
+### Modelos utilizados
 
 Antes de dar incio a la etapa de modelado se tomó la función de StandarScaler, la cual estandariza los registros de las variables categóricas de la siguiente manera: $z = \frac{x - \mu}{\sigma}$. Además, se considerará las métricas recall, F1 como criterio de mejor modelo.
 
@@ -79,7 +79,9 @@ Se utilizó validación cruzada estratificada debido al desbalance de clases.
 ---
 
 ###  Resultados
-- El mejor modelo fue Random Forest debido a su equilibrio entre recall y F1-score.
+* El modelo Random Forest es la mejor alternativa ya que tiene una similitud entre f1-socre y recall de 0.85.
+* El modelo Gradient Boosting presenta una baja comparación con Random Forest, ya que f1 score y rcall es de 0.74, por lo tanto es el segundo mejor modelo.
+* El modeo de regresión logística no presenta un balance entre recall y f1 ya que sus valore son 0.96 y 0.84, por lo tanto sería una opción descartable.
 
 ---
 
