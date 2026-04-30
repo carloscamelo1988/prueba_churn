@@ -88,12 +88,17 @@ Importancia de variables:
 ---
 
 ###  Insights
-* El modelo Random Forest es la mejor alternativa ya que tiene una similitud entre f1-socre y recall de 0.85.
-* El modelo Gradient Boosting presenta una baja comparación con Random Forest, ya que f1 score y rcall es de 0.74, por lo tanto es el segundo mejor modelo.
-* El modeo de regresión logística no presenta un balance entre recall y f1 ya que sus valore son 0.96 y 0.84, por lo tanto sería una opción descartable. 
+* El análisis exploratorio de datos entre churn y las variables total_shipments(total de envíos) y monthly_spend (gasto mensual), son un diferenciador enorme al comparar clientes desertores y no desertores.
+* Clientes con bajo gasto mensual y pocos envíos son los perfiles más representativos con una alta probabilidad de churn. 
 
 ---
+## Recomendaciones
 
+* Realizar campañas de mercadeo enfocadas a la retención de clientes que representan bajo gasto y poca actividad en envíos.
+* Diseñar esrtategias que sean de impacto a partir de promociones, regalos, inscripciones, cupones, descuentos lo que generaría un crecimiento en el uso del servicio
+
+
+---
 
 ##  Cómo ejecutar
 pip install -r requirements.txt  
