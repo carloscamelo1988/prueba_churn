@@ -1,7 +1,7 @@
 # Predicción de Churn de Clientes
 
 ## Descripción
-Proyecto de machine learning para predecir churn (deserción) de clientes a partir de ténicas de machine learning desarrollado en Python.
+Proyecto de machine learning para predecir churn (deserción) de clientes para una empresa lider en servicios de mensajería, logística y transporte de mercancías a partir de ténicas de machine learning desarrollado en Python.
 
 ## Objetivo
 Reducir el churn de clientes e identificar las causas que lo genenran.
