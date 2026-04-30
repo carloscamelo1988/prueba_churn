@@ -61,9 +61,6 @@ Importancia de variables:
 
 ![Importancia de variables](output_46_1.png)
 
-EEEEEEEEE
-
-
 
 - Random Forest
   
