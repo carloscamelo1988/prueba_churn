@@ -52,9 +52,12 @@ Antes de dar incio a la etapa de modelado se tomó la función de StandarScaler,
 A continuación, se proponen los siguientes modelos:
 
 - Gradient Boosting.
-  
-<center># Mi Título Centrado</center>
+
+
 ![Modelo Gradient Boosting](modelo1.png)
+
+<center># Importancia de variables</center>
+
 
 ![Importancia de variables](output_46_1.png)
 
