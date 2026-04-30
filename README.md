@@ -56,15 +56,13 @@ A continuación, se proponen los siguientes modelos:
 
 ![Modelo Gradient Boosting](modelo1.png)
 
-##### Importancia de variables
-
+Importancia de variables:
 
 ![Importancia de variables](output_46_1.png)
 
 EEEEEEEEE
 
 
-<h2 align="center"> Importancia de variables</h2>
 
 - Random Forest
   
