@@ -47,10 +47,9 @@ Se toma la variable objetivo "Churn" vs las demás variables numéricas para det
 
 ### 🤖 Modelos utilizados
 
-Antes de dar incio a la etapa de modelado se tomó la función de StandarScaler, $z = \frac{x - \mu}{\sigma}$
+Antes de dar incio a la etapa de modelado se tomó la función de StandarScaler, la cual estandariza los registros de las variables categóricas de la siguiente manera: $z = \frac{x - \mu}{\sigma}$.
 
-
-
+A continuación, se proponen los siguientes modelos:
 
 - Gradient Boosting.
   
