@@ -53,7 +53,7 @@ A continuación, se proponen los siguientes modelos:
 
 - Gradient Boosting.
   
-
+<center># Mi Título Centrado</center>
 ![Modelo Gradient Boosting](modelo1.png)
 
 ![Importancia de variables](output_46_1.png)
